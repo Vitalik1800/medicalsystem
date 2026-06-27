@@ -84,8 +84,6 @@ MedicalImageClassifier/
 │   ├── gradcam.png
 │   └── training.png
 │
-├── model/
-│
 ├── main.py
 ├── train.py
 ├── predict.py

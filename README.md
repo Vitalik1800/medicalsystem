@@ -79,11 +79,12 @@ MedicalImageClassifier/
 │
 ├── screenshots/
 │
+├── image_loader.py
 ├── main.py
+├── model.py
+├── processor.py
 ├── train.py
-├── predict.py
-├── gradcam.py
-├── utils.py
+├── ui.py
 │
 └── README.md
 ```

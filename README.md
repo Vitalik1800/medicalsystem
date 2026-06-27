@@ -103,60 +103,18 @@ All application screenshots are stored in the **screenshots** folder.
 screenshots/
 ```
 
-Recommended screenshots:
-
-### 🏠 Main Window
-
-Main graphical interface of the application.
-
-```markdown
-![Main Window](screenshots/main_window.png)
-```
-
----
-
-### 📂 Image Loading
-
-Loading a chest X-ray image.
-
-```markdown
-![Image Loaded](screenshots/image_loaded.png)
-```
-
----
-
-### 🩺 Prediction Result
-
-Classification result with confidence score.
-
-```markdown
-![Prediction](screenshots/prediction.png)
-```
-
----
-
-### 🔥 Grad-CAM Visualization
-
-Heatmap showing the regions that influenced the model.
-
-```markdown
-![GradCAM](screenshots/gradcam.png)
-```
-
----
-
 # ⚙️ Installation
 
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/Vitalik1800/MedicalImageClassifier.git
+git clone https://github.com/Vitalik1800/medicalsystem.git
 ```
 
 ## 2. Open the project directory
 
 ```bash
-cd MedicalImageClassifier
+cd medicalsystem
 ```
 
 ## 3. Run the application

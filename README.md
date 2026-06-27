@@ -17,7 +17,7 @@ The application is based on **ResNet18** with **Transfer Learning** and provides
 
 **GitHub Repository**
 
-https://github.com/Vitalik1800/MedicalImageClassifier
+https://github.com/Vitalik1800/medicalsystem
 
 > Replace the repository name if you choose a different one.
 

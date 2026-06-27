@@ -78,11 +78,6 @@ MedicalImageClassifier/
 ├── dataset/
 │
 ├── screenshots/
-│   ├── main_window.png
-│   ├── image_loaded.png
-│   ├── prediction.png
-│   ├── gradcam.png
-│   └── training.png
 │
 ├── main.py
 ├── train.py
